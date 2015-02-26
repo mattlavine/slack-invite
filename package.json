@@ -1,0 +1,19 @@
+{
+  "name": "slack-invite",
+  "version": "1.0.4",
+  "description": "Invite people to your awesome slack group.",
+  "main": "slack-invite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wski/slack-invite.git"
+  },
+  "author": "<wski contact.mattdylan@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.53.0"
+  }
+}
