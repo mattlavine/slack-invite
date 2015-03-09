@@ -1,3 +1,6 @@
+# Slack Invite
+Automatically invite people to slack by email.
+
 ### Slack is Awesome..but...
 But it's API does not include a way to invite new users to your group, so here's a solution.
 
